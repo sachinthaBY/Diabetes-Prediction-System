@@ -9,5 +9,5 @@ Early diabetes prediction system for Sri Lankans using machine learning and reti
 - NumPy, Pandas, Matplotlib, Seaborn used as libraries for the development.
 - For the diabetes prediction model system trained using a Sri Lankan diabetes dataset that has been collected from Ragama hospital and for the retinopathy prediction system trained using a dataset taken from kaggle.
 
-- Retinopathy dataset link: https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
+### Retinopathy dataset link: https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
 
